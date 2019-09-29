@@ -3,3 +3,15 @@ Trabalho de Graduação apresentado ao Curso de Tecnologia em Análise e Desenvo
 
 Este trabalho de graduação tem como objetivo, mostrar que mesmo com pouco ferramental especializado para o desenvolvimento web, já é possível criar um jogo com recursos de qualidade, com boa usabilidade e capaz de concorrer com outros jogos do mesmo segmento. Propõe-se um jogo simples o suficiente para funcionar até mesmo em um computador com baixo poder computacional, que pode atingir pessoas de todas as faixas etárias. A ideia principal do jogo é propor partidas rápidas, e que os jogadores em um intervalo de tempo curto consigam se divertir sem compromisso.
 
+O trabalho foi desenvolvido por:
+
+* [Diego Victor Gonzaga](https://www.linkedin.com/in/diego-victor-gonzaga) [\<diegovictorgonzaga@gmail.com\>](mailto:diegovictorgonzaga@gmail.com)
+* [Kauê Rocha](https://www.linkedin.com/in/kauê-rocha-017625152)
+* Tomas Coradi Lino
+* Vinícius de Moraes da Silva Pinto
+
+E orientado por:
+* Thales de Tarsis Cezare
+
+Sendo aprovado pela Fatec em Outubro de 2018.
+
