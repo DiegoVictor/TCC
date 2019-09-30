@@ -15,3 +15,15 @@ E orientado por:
 
 Sendo aprovado pela Fatec em Outubro de 2018.
 
+## Cronograma
+|Meses|Atividade
+|---|---
+|Janeiro de 2017|Entrevista
+|Janeiro de 2017|Levantamento de requisitos
+|Fevereiro de 2017|Modelagem estática (Diagrama de classes e Casos de Uso) e dinâmica (Diagrama de Atividades)
+|Março de 2017|Protótipos de tela de baixa e alta fidelidade (Mockups)
+|Março/Abril/Maio de 2017|Desenvolvimento do motor da aplicação
+|Maio/Junho de 2017|Implementação das telas
+|Julho/Agosto de 2017|Teste de unidade e integração
+|Setembro de 2017 a Junho de 2018|Documentação do trabalho
+
