@@ -31,6 +31,17 @@ Sendo aprovado pela Fatec em Outubro de 2018.
 Ao decorrer deste trabalho serão apresentados discussões e resultados de todas as fases do processo de desenvolvimento de um jogo, intitulado de **To Infinity and Beyond**, desde a fase de entrevista e planejamento até a fase de programação e implementação, dando ênfase em algumas etapas, como a de desenvolvimento da interface e do motor, ao final estarão anexados alguns documentos técnicos produzidos durante essas etapas.
 Como decorrência de todo esse trabalho surgiu o resultado final, um jogo no estilo do antigo Space Invaders, porém com um visual melhorado e moderno, e jogabilidade mais interativa e interessante. O grande diferencial deste trabalho foi utilizar as novas tecnologias disponibilizadas pela Web moderna, a exemplo, a tecnologia HTML5 Canvas.
 
+## Jogo
+Uma versão (mais atual e em desenvolvimento) do jogo desenvolvido como solução para o problema levantado e abordado no documento final pode ser encontrado em:
+* [To Infinity and Beyond](https://github.com/DiegoVictor/spaceship-canvas)
+
+### Tecnologias
+O jogo foi construído utlizando as seguintes tecnologias:
+
+* [JavaScript](https://wiki.developer.mozilla.org/docs/Web/JavaScript)
+* [HTML5 Canvas](https://developer.mozilla.org/docs/Web/HTML/Canvas)
+* [ReactJS](https://reactjs.org)
+
 # Instituição
 Faculdade Tecnica de Mogi Mirim - Arthur de Azevedo
 
