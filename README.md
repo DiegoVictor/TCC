@@ -27,6 +27,10 @@ Sendo aprovado pela Fatec em Outubro de 2018.
 |Julho/Agosto de 2017|Teste de unidade e integração
 |Setembro de 2017 a Junho de 2018|Documentação do trabalho
 
+## Resumo
+Ao decorrer deste trabalho serão apresentados discussões e resultados de todas as fases do processo de desenvolvimento de um jogo, intitulado de **To Infinity and Beyond**, desde a fase de entrevista e planejamento até a fase de programação e implementação, dando ênfase em algumas etapas, como a de desenvolvimento da interface e do motor, ao final estarão anexados alguns documentos técnicos produzidos durante essas etapas.
+Como decorrência de todo esse trabalho surgiu o resultado final, um jogo no estilo do antigo Space Invaders, porém com um visual melhorado e moderno, e jogabilidade mais interativa e interessante. O grande diferencial deste trabalho foi utilizar as novas tecnologias disponibilizadas pela Web moderna, a exemplo, a tecnologia HTML5 Canvas.
+
 # Instituição
 Faculdade Tecnica de Mogi Mirim - Arthur de Azevedo
 
